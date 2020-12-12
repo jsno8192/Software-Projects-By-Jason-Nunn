@@ -1,6 +1,7 @@
 Software projects - By Jason Nunn
-A storage location of my Linux software/firmware projects
----------------------------------------------------------
+
+A storage location for my Linux software/firmware projects
+----------------------------------------------------------
 
 FunktrackerGOLD: Funk Module music tracker.
 
