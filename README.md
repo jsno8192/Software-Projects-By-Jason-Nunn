@@ -15,7 +15,5 @@ lpc2103 led blinky: Example source code for the LPC21XX ARM7 processor.
 
 la51: Converts A51 assembly language to an Intel Hex file.
 
-For full details, see: www.bluebarorange.ooguy.com/~jsno
-
 Jason Nunn
 Adelaide South Australia
